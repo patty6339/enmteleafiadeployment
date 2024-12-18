@@ -1,5 +1,3 @@
----
-
 ### AWS Deployment Architecture for TeleAfia (Containerized with Free-Tier Focus)
 
 #### 1. Frontend Deployment
